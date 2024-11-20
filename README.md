@@ -1,4 +1,3 @@
-# Dark-Light-Mode-with-Angular-and-TailwindCSS
 
 # Dark / Light Mode with Angular and TailwindCSS 🌗
 
